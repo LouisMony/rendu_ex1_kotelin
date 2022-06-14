@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IIM_APP</string>
+    <string name="premiere_chaine">Ceci est ma premiere chaîne de caractere</string>
+</resources>
